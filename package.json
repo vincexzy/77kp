@@ -1,0 +1,25 @@
+{
+  "name": "77kp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"node-sass scss -w -o css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincexzy/77kp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincexzy/77kp/issues"
+  },
+  "homepage": "https://github.com/vincexzy/77kp#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
